@@ -1,0 +1,10 @@
+sudo nano /etc/rc.local
+
+
+
+sudo bash /home/pi/recordLoop.sh
+
+
+sudo apt get install bc sox flac
+
+#maybe more installs

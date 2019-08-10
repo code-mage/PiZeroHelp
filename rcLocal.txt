@@ -5,6 +5,6 @@ sudo nano /etc/rc.local
 sudo bash /home/pi/recordLoop.sh
 
 
-sudo apt get install bc sox flac
+sudo apt-get install bc sox flac jq
 
 #maybe more installs
